@@ -1,0 +1,6 @@
+Flask
+torch
+opencv-python
+numpy
+termcolor
+
